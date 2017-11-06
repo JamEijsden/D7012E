@@ -1,2 +1,3 @@
 # D7012E - Declarative Languages
-Course from Luleå University of Technology, read 2014
+Course from Luleå University of Technology, 2014.
+Languages: Haskell and Prolog
